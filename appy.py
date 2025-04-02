@@ -10,8 +10,8 @@ elementos = [
   "simbolo": "Be",
   "nombre": "Berilio",
   "uso": "Componentes aeroespaciales y electrónicos",
-  "ubicacion": "En minerales como el berilo"
-},{
+  "ubicacion": "En minerales como el berilo"},
+{
   "numero": 5,
   "simbolo": "B",
   "nombre": "Boro",
