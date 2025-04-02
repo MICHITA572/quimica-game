@@ -5,7 +5,13 @@ elementos = [
     {"numero": 1, "simbolo": "H", "nombre": "Hidrógeno", "uso": "Combustible y producción de amoníaco", "ubicacion": "En el agua y compuestos orgánicos"},
     {"numero": 2, "simbolo": "He", "nombre": "Helio", "uso": "Globos y refrigerante", "ubicacion": "Atmósfera y gas natural"},
     {"numero": 3, "simbolo": "Li", "nombre": "Litio", "uso": "Baterías y medicina", "ubicacion": "Minerales como espodumena"},
-    { "numero": 4, "simbolo": "Be", "nombre": "Berilio", "uso": "Componentes aeroespaciales y electrónicos","ubicacion": "En minerales como el berilo"},{
+   {
+  "numero": 4,
+  "simbolo": "Be",
+  "nombre": "Berilio",
+  "uso": "Componentes aeroespaciales y electrónicos",
+  "ubicacion": "En minerales como el berilo"
+},{
   "numero": 5,
   "simbolo": "B",
   "nombre": "Boro",
